@@ -1,0 +1,9 @@
+{
+  "name": "virtual-dj-set-pro",
+  "version-string": "0.1.0",
+  "dependencies": [
+    "qtbase",
+    "qtmultimedia",
+    "qtwebengine"
+  ]
+}
